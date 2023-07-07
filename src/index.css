@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.paid-row{
+  background-color: rgba(141, 183, 141, 0.486);
+}
+
+.pending-row{
+  background-color: rgb(170, 33, 33)
+}
